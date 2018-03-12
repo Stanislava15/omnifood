@@ -1,4 +1,15 @@
-"# my-first-repo" 
-# omnifood
-Як постворювати тут папки і файлики по папкам розкинути ще не шарю, тому все на кучу.
-Картинки не закидувала, бо ще більший бардак би тут був
+Omnifood
+
+This is my first website build with using HTML5, CSS3, JQuery and JS.
+
+"Omnifood" is a delivery service of healthy food.
+Website consist of few blocks:
+- home page;
+- navigation bar;
+- about service;
+- how it works;
+- cities where this service exist;
+- testimonial section;
+- sign up section;
+- contact form + map;
+- footers.
